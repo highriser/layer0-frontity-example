@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://sabsebest.co.in/"
+          "url": "https://beta.thesportsgear.com/"
         }
       }
     },
